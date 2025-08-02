@@ -1,0 +1,9 @@
+{
+  "name": "Moning Profile Link",
+  "about": "Adds a link to the Moning user profile on every Discourse user card.",
+  "version": "0.1",
+  "component": true,
+  "authors": "Nicolas Blanco",
+  "theme_variables": [],
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-creating-discourse-themes/93648"
+}

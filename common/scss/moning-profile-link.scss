@@ -1,0 +1,11 @@
+.user-card-location-and-website {
+  .moning-profile-link {
+    display: block;
+    margin-top: 5px;
+    color: var(--primary-high); // Matches Discourse's link color scheme
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
