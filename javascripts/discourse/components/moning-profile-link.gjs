@@ -10,7 +10,7 @@ export default class MoningProfileLink extends Component {
   <template>
     {{#if @outletArgs.user.username}}
       <a href="https://moning.co/fr/u/{{this.moningUsername}}" class="moning-profile-link" target="_blank" rel="noopener noreferrer">
-        Moning Profile
+        👉🏻 Portefeuilles Moning
       </a>
     {{/if}}
   </template>
