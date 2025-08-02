@@ -1,7 +1,7 @@
 {
   "name": "Moning Profile Link",
   "about": "Adds a link to the Moning user profile on every Discourse user card.",
-  "version": "0.1",
+  "version": "0.2",
   "component": true,
   "authors": "Nicolas Blanco",
   "theme_variables": [],

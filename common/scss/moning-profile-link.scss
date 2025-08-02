@@ -1,8 +1,8 @@
-.user-card-location-and-website {
+.user-card-metadata {
   .moning-profile-link {
     display: block;
     margin-top: 5px;
-    color: var(--primary-high); // Matches Discourse's link color scheme
+    color: var(--primary-high);
 
     &:hover {
       text-decoration: underline;
